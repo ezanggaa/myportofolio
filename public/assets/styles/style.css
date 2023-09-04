@@ -1,0 +1,53 @@
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+/* Navbar */
+.navbar .navbar-brand {
+  font-weight: 700;
+}
+
+.navbar .navbar-nav .nav-link {
+  color: #000000;
+  font-weight: 500;
+  margin-left: 30px;
+  font-size: 16px;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+  color: #2c6fff;
+}
+
+/* Hero Section */
+.home-text a{
+  font-size: 16px;
+}
+
+/* About */
+#about {
+  background: #F9F7F7;
+}
+
+.img-skills{
+  width: 50px;
+  height: 50px;
+}
+
+.img-skill{
+  width: 42px;
+  height: 45px;
+}
+
+/* Portfolio */
+
+.card-text{
+  font-size: 14px;
+}
+
+/* Footer */
+
+
+.footer-brand{
+  color: #000;
+}
